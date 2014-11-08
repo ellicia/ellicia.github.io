@@ -1,5 +1,12 @@
 /* comments look like this in CSS files */
 
+/* base color*/
+body {
+	background-color: #D56333;
+	width: 100%;
+	height: 100%;
+}
+
 #navbar {
   background-color: #000000; /* black */
   color: #ffffff;            /* white */
@@ -14,6 +21,31 @@
   text-decoration: none;
 }
 
+/* edit the stuff here */
+/* tags first */
+/* class after */
+/* id last */
+
 main {
   padding: 0.5em;
 }
+
+p {
+	font-size: 22px;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+
+
+
