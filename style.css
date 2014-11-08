@@ -23,8 +23,8 @@ body {
 
 /* edit the stuff here */
 /* tags first */
-/* class after */
-/* id last */
+/* class after . */
+/* id last # */
 
 main {
   padding: 0.5em;
@@ -35,7 +35,9 @@ p {
 }
 
 h1 {
-
+	text-align: center;
+	color: #79594C;
+	background-color: aliceblue;
 }
 
 h2 {
@@ -43,9 +45,45 @@ h2 {
 }
 
 h3 {
-
+	font-style: italic;
+	text-align: center;
+	background-attachment: fixed;
+	background-position: 30%, 20%;
 }
 
 
+.base {
 
+}
 
+.aboutMyself {
+
+}
+
+.listExamples {
+
+}
+
+.usefulTags {
+
+}
+
+#unorderd {
+
+}
+
+#orderd {
+
+}
+
+#sandy {
+
+}
+
+#mount {
+
+}
+
+#halloweenSelfie {
+	
+}
